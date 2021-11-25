@@ -16,6 +16,16 @@ This repo is designed to show how a reference Azure Landing Zones architecture c
                                  │
                                  │
                                  │
+                                 │
+                  ┌──────────────▼──────────────┐
+                  │                             │
+                  │  Resource deployment to     │
+                  │  subscription alias mapping │
+                  │                             │
+                  └──────────────┬──────────────┘
+                                 │
+                                 │
+                                 │
                                  ▼
                      ┌─────────────────────────┐
                      │                         │
