@@ -1,0 +1,7 @@
+{
+  "id": "/providers/Microsoft.Subscription/aliases/connectivity",
+  "name": "connectivity",
+  "type": "Microsoft.Subscription/aliases",
+  "apiVersion": "2020-09-01",
+  "properties": {}
+}

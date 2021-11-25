@@ -1,0 +1,38 @@
+{
+  "root": {
+    "subscriptions": []
+  },
+  "platform": {
+    "subscriptions": []
+  },
+  "landingzones": {
+    "subscriptions": []
+  },
+  "sandboxes": {
+    "subscriptions": []
+  },
+  "decommissioned": {
+    "subscriptions": []
+  },
+  "management": {
+    "subscriptions": [
+      "management"
+    ]
+  },
+  "identity": {
+    "subscriptions": [
+      "identity"
+    ]
+  },
+  "connectivity": {
+    "subscriptions": [
+      "connectivity"
+    ]
+  },
+  "corp": {
+    "subscriptions": []
+  },
+  "online": {
+    "subscriptions": []
+  }
+}
