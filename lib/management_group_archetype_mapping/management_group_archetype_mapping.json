@@ -1,0 +1,32 @@
+{
+  "root": {
+    "archetype_config": "es_root"
+  },
+  "platform": {
+    "archetype_config": "es_platform"
+  },
+  "landingzones": {
+    "archetype_config": "es_landing_zones"
+  },
+  "sandboxes": {
+    "archetype_config": "es_sandboxes"
+  },
+  "decommissioned": {
+    "archetype_config": "es_decommissioned"
+  },
+  "management": {
+    "archetype_config": "es_management"
+  },
+  "identity": {
+    "archetype_config": "es_identity"
+  },
+  "connectivity": {
+    "archetype_config": "es_connectivity"
+  },
+  "corp": {
+    "archetype_config": "es_corp"
+  },
+  "online": {
+    "archetype_config": "es_online"
+  }
+}
