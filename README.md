@@ -2,6 +2,8 @@
 
 This repo is designed to show how a reference Azure Landing Zones architecture can be represented in a semi-structured data model in a repository.
 
+It is work in progress - collaboration welcome!
+
 ## Data model visualisation
 
 ```text
